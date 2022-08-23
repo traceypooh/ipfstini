@@ -1,1 +1,1 @@
-Sitemap: https://traceypooh.github.io/ipfstini/sitemap.xml
+Sitemap: https://ipfs.io/ipfs/QmWhoVkYm2SNoPEAK5ZmKFNtqVAietNsdzZrZYWK9KaXw9/sitemap.xml
